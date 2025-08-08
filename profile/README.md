@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > This organization exists to separate educational resources and experimental projects from my [main GitHub profile](https://github.com/pilot2254).
 >
-> It includes a range of repositories—from beginner-level code to game cheat prototypes.
+> It includes a range of repositories, from beginner-level code to game cheat prototypes.
 >
 > All game cheat repositories are strictly for educational use. While some target multiplayer games (e.g., CS2, Lethal Company, R.E.P.O., No Man's Sky, and more), they were tested only in controlled environments (custom lobbies, singleplayer mode, bots, and consenting peers with anti-cheat disabled).
 >
