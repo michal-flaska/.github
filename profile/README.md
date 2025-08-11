@@ -64,6 +64,8 @@ Hello there! You might be wondering why I separated some of my projects from my 
   - [TheCherno](https://www.youtube.com/@TheCherno) — In-depth C++ programming lectures.
   - [FreeCodeCamp's UE5 Tutorial](https://youtu.be/6UlU_FsicK8) — Extensive Unreal Engine 5 tutorial covering Blueprints, Materials, Level Design, and C++.
   - [FreeCodeCamp](https://www.freecodecamp.org/) — Broad range of free programming tutorials and courses.
+
+  - [Jonathan Blow](https://www.youtube.com/@jblow888) - I put him here because he helped me with my lack of motivation, and inspired me in certain things
   
   **Game Hacking & Cheat Engine:**
   
