@@ -3,7 +3,7 @@
 >
 > It includes a range of repositories, from beginner-level code to game cheat prototypes.
 >
-> All game cheat repositories are strictly for educational use. While some target multiplayer games (e.g., CS2, Lethal Company, R.E.P.O., No Man's Sky, and more), they were tested only in controlled environments (custom lobbies, singleplayer mode, bots, and consenting peers with anti-cheat disabled).
+> All game cheat repositories are strictly for educational use. While some target multiplayer games (e.g., CS2, Lethal Company, AssaultCube, No Man's Sky, and more), they were tested only in controlled environments (custom lobbies, singleplayer mode, bots, and consenting peers with anti-cheat disabled).
 >
 > Every such repository contains a clear disclaimer: FOR EDUCATIONAL PURPOSES ONLY. These projects were created solely for learning. Do not report me or this github organization or its repositories, I do not support, promote cheating or abuse in multiplayer environments.
 >
