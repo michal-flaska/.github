@@ -8,3 +8,5 @@
 > Every such repository contains a clear disclaimer: FOR EDUCATIONAL PURPOSES ONLY. These projects were created solely for learning. Do not report me or this github organization or its repositories, I do not support, promote cheating or abuse in multiplayer environments.
 >
 > I do not condone misuse. I accept no responsibility for bans, kicks, or consequences arising from unauthorized use.
+
+> A game cheater mindlessly consumes pre-made cheats to gain advantage. A game hacker builds cheats, dissecting systems and exploiting weaknesses. Cheaters learn nothing. Hackers learn everything.
