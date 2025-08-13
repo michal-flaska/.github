@@ -1,5 +1,5 @@
 ## Introduction
-Hello there! You might be wondering why I separated some of my projects from my [main GitHub profile](https://github.com/pilot2254). It's because I didn't want to create a mess there with repositories like: forks, personal projects, public projects, learning materials, etc. So I created this organization for the sole purpose of learning something new.
+Hello there! You might be wondering why I separated some of my projects from my [main GitHub profile](https://github.com/pilot2254). It's because I didn't want to create a mess there with repositories like: forks, personal projects, public projects, learning materials, etc. So I created this organization for the sole purpose of learning something new. However, keep in mind that although this organization contains game cheats, it is not only for them.
 
 ## Notice
 > [!IMPORTANT]
@@ -10,8 +10,6 @@ Hello there! You might be wondering why I separated some of my projects from my 
 > Every such repository contains a clear disclaimer: FOR EDUCATIONAL PURPOSES ONLY. These projects were created solely for learning. Do not report me or this github organization or its repositories, I do not support, promote cheating or abuse in multiplayer environments.
 >
 > I do not condone misuse. I accept no responsibility for bans, kicks, or consequences arising from unauthorized use.
->
-> However, keep in mind that this organization is not only for game cheats.
 
 ## My personal quote
 > A game cheater mindlessly consumes pre-made cheats to gain advantage. A game hacker builds cheats, dissecting systems and exploiting weaknesses. Cheaters learn nothing. Hackers learn everything.
