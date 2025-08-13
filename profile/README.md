@@ -54,24 +54,24 @@ Hello there! You might be wondering why I separated some of my projects from my 
   
   **General Development & Learning:**
   
-  - [GitHub](https://github.com) — Explore open-source projects for inspiration and ideas, especially if you're unsure what to build.
-  - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) — A curated list of practical projects and tutorials you can implement yourself.
-  - [cplusplus.com](https://cplusplus.com/) — Comprehensive C++ documentation and references.
-  - [Unity Learn](https://learn.unity.com/) — Official Unity tutorials and learning paths.
-  - [BroCode](https://www.youtube.com/@BroCodez) — High-quality, free coding tutorials covering multiple topics.
-  - [TheCherno](https://www.youtube.com/@TheCherno) — In-depth C++ programming lectures.
-  - [FreeCodeCamp's UE5 Tutorial](https://youtu.be/6UlU_FsicK8) — Extensive Unreal Engine 5 tutorial covering Blueprints, Materials, Level Design, and C++.
-  - [FreeCodeCamp](https://www.freecodecamp.org/) — Broad range of free programming tutorials and courses.
+  - [GitHub](https://github.com) - Explore open-source projects for inspiration and ideas, especially if you're unsure what to build.
+  - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - A curated list of practical projects and tutorials you can implement yourself.
+  - [cplusplus.com](https://cplusplus.com/) - Comprehensive C++ documentation and references.
+  - [Unity Learn](https://learn.unity.com/) - Official Unity tutorials and learning paths.
+  - [BroCode](https://www.youtube.com/@BroCodez) - High-quality, free coding tutorials covering multiple topics.
+  - [TheCherno](https://www.youtube.com/@TheCherno) - In-depth C++ programming lectures.
+  - [FreeCodeCamp's UE5 Tutorial](https://youtu.be/6UlU_FsicK8) - Extensive Unreal Engine 5 tutorial covering Blueprints, Materials, Level Design, and C++.
+  - [FreeCodeCamp](https://www.freecodecamp.org/) - Broad range of free programming tutorials and courses.
 
   - [Jonathan Blow](https://www.youtube.com/@jblow888) - I put him here because he helped me with my lack of motivation, and inspired me in certain things
   
   **Game Hacking & Cheat Engine:**
   
-  - [Swashed](https://www.youtube.com/@Swashed_) — Beginner-friendly Cheat Engine tutorials.
-  - [Intigriti](https://www.youtube.com/@intigriti) — Another solid source for Cheat Engine beginners.
-  - [GuidedHacking](https://www.youtube.com/@GuidedHacking) — Free YouTube tutorials plus paid content on their website.
-  - [Cazz](https://www.youtube.com/@cazz) — Specialized in cheats for CS2, excellent content.
-  - [manuroger](https://www.youtube.com/@manuroger112) — Some useful CS2 hacking videos; limited coverage.
+  - [Swashed](https://www.youtube.com/@Swashed_) - Beginner-friendly Cheat Engine tutorials.
+  - [Intigriti](https://www.youtube.com/@intigriti) - Another solid source for Cheat Engine beginners.
+  - [GuidedHacking](https://www.youtube.com/@GuidedHacking) - Free YouTube tutorials plus paid content on their website.
+  - [Cazz](https://www.youtube.com/@cazz) - Specialized in cheats for CS2, excellent content.
+  - [manuroger](https://www.youtube.com/@manuroger112) - Some useful CS2 hacking videos; limited coverage.
 
 ---
 
