@@ -28,7 +28,7 @@ Hello there! You might be wondering why I separated some of my projects from my 
   <br />
   No. Every single repository here is for educational use only.<br />
   I do not support, condone, or promote cheating in multiplayer environments.<br />
-  All testing is done in controlled setups—private lobbies, bots, or with consenting peers.<br />
+  All testing is done in controlled setups - private lobbies, bots, or with consenting peers.<br />
   If you misuse the code, that’s entirely on you.
   
 ---
@@ -102,7 +102,7 @@ Hello there! You might be wondering why I separated some of my projects from my 
   <summary>Why focus on cheats if you don’t support cheating?</summary>
   <br />
   
-  For me, it’s fun. While learning how to make cheats, I picked up a massive amount of knowledge in programming, reverse engineering, and general computer science. It’s not about gaining unfair advantage—it’s about learning how systems really work.
+  For me, it’s fun. While learning how to make cheats, I picked up a massive amount of knowledge in programming, reverse engineering, and general computer science. It’s not about gaining unfair advantage, it’s about learning how systems really work.
   
 ---
 </details>
