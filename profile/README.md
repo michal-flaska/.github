@@ -11,8 +11,6 @@ Hello there! You might be wondering why I separated some of my projects from my 
 > These projects were created solely for learning. Do not report me or this github organization or its repositories, I do not support, promote cheating or abuse in multiplayer environments.
 >
 > I do not condone misuse. I accept no responsibility for bans, kicks, or consequences arising from unauthorized use.
->
-> <img width="569" height="149" alt="image" src="https://github.com/user-attachments/assets/a8aedc55-af84-46da-bdb9-ba15dab20d1f" />
 
 ## My personal quote
 > A game cheater mindlessly consumes pre-made cheats to gain advantage. A game hacker builds cheats, dissecting systems and exploiting weaknesses. Cheaters learn nothing. Hackers learn everything.
@@ -33,6 +31,18 @@ Hello there! You might be wondering why I separated some of my projects from my 
   I do not support, condone, or promote cheating in multiplayer environments.<br />
   All testing is done in controlled setups - private lobbies, bots, or with consenting peers.<br />
   If you misuse the code, that’s entirely on you.
+  
+---
+</details>
+
+<!-- ================================================================================================ FAQ ITEM ================================================================================================ -->
+<details>
+  
+  <summary>Does GitHub allow users to store cheats and malware in their repositories?</summary>
+  <br />
+  This is how GitHub replied to my support ticket:
+  <br><br>
+  <img width="569" height="149" alt="image" src="https://github.com/user-attachments/assets/cb948e23-6ecd-47d2-93b0-b27192af0b90" />
   
 ---
 </details>
