@@ -58,6 +58,8 @@ Hello there! You might be wondering why I separated some of my projects from my 
   <br><br>
   TL;DR, the maintainer clarified that the main issue is not about banning certain use cases, but about not providing support for cheat-related projects. Since my projects are strictly singleplayer, educational, and open-source, they don't fall under the problematic category.<br /> 
   But to respect creator's position, I do not request support for these projects often.
+
+  ---
 </details>
 
 
