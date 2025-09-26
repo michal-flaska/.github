@@ -51,8 +51,7 @@ Hello there! You might be wondering why I separated some of my projects from my 
 <details>
   <summary>Why do you use ImGui for cheat-related projects if the creator discouraged it?</summary>
   <br />
-  This is a common concern, and it was also described directly in the ImGui issue #1586:
-  <img src="https://github.com/ocornut/imgui/issues/1586" alt="ImGui issue #1586 photo">
+  This is a common concern, and it was also described directly in the <a href="https://github.com/ocornut/imgui/issues/1586">ImGui issue #1586</a>.<br />
   Here is ocornut's response to my question for context:
   <br><br>
   <img src="./images/response-from-ocornut.png" alt="Response from ocornut">
