@@ -42,7 +42,7 @@ Hello there! You might be wondering why I separated some of my projects from my 
   <br />
   This is how copilot replied to my GitHub support ticket:
   <br><br>
-  ![response from github support](./images/response-from-github-support.png)
+  <img src="./images/response-from-github-support.png" alt="response from github support">
   
 ---
 </details>
