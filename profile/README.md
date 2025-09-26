@@ -40,9 +40,21 @@ Hello there! You might be wondering why I separated some of my projects from my 
   
   <summary>Does GitHub allow users to store cheats and malware in their repositories?</summary>
   <br />
-  This is how GitHub replied to my support ticket:
+  This is how copilot replied to my GitHub support ticket:
   <br><br>
-  <img width="569" height="149" alt="image" src="https://github.com/user-attachments/assets/cb948e23-6ecd-47d2-93b0-b27192af0b90" />
+  ![response from github support](./images/response-from-github-support.png)
+  
+---
+</details>
+
+<!-- ================================================================================================ FAQ ITEM ================================================================================================ -->
+<details>
+  
+  <summary>Why do you use ImGui for cheats when the creator doesn't want cheaters to use it?</summary>
+  <br />
+  Well first of all, this is a nice question since he mentioned cheat devs in issue #1586 (https://github.com/ocornut/imgui/issues/1586). And here is his response:
+  <br><br>
+  ![response from ocornut](./images/response-from-ocornut.png)
   
 ---
 </details>
