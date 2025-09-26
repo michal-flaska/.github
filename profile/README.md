@@ -51,11 +51,11 @@ Hello there! You might be wondering why I separated some of my projects from my 
 <details>
   <summary>Why do you use ImGui for cheat-related projects if the creator discouraged it?</summary>
   <br />
-  This is a common concern, and it was also described directly in 
-  [ImGui issue #1586](https://github.com/ocornut/imgui/issues/1586).  
+  This is a common concern, and it was also described directly in the ImGui issue #1586:
+  <img src="https://github.com/ocornut/imgui/issues/1586" alt="ImGui issue #1586 photo">
   Here is ocornut's response to my question for context:
   <br><br>
-  ![Response from ocornut](./images/response-from-ocornut.png)
+  <img src="./images/response-from-ocornut.png" alt="Response from ocornut">
   <br><br>
   TL;DR, the maintainer clarified that the main issue is not about banning certain use cases, but about not providing support for cheat-related projects. Since my projects are strictly singleplayer, educational, and open-source, they don't fall under the problematic category.<br /> 
   But to respect creator's position, I do not request support for these projects often.
