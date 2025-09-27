@@ -13,7 +13,7 @@ Hello there! You might be wondering why I separated some of my projects from my 
 > I do not condone misuse. I accept no responsibility for bans, kicks, or consequences arising from unauthorized use.
 
 ## My personal quote
-> A game cheater mindlessly consumes pre-made cheats to gain advantage. A game hacker builds cheats, dissecting systems and exploiting weaknesses. Cheaters learn nothing. Hackers learn everything.
+> A game cheater mindlessly consumes pre-made cheats to gain advantage. A game hacker builds cheats, dissecting systems and exploiting weaknesses. Cheaters learn nothing. Cheat devs learn everything.
 
 <!-- ========================================================================================================================================================================================================== -->
 <!-- ================================================================================================ FAQ SECTION ============================================================================================= -->
@@ -230,6 +230,20 @@ Hello there! You might be wondering why I separated some of my projects from my 
   
 ---
   
+</details>
+
+<!-- ================================================================================================ FAQ ITEM ================================================================================================ -->
+<details>
+
+  <summary>Why do you prefer saying "Cheat Dev" instead of "Hacker"?</summary>
+  <br />
+
+  The word "hacker" gets thrown around way too much.<br />
+  A lot of people (mostly kids) use it for anything even slightly techy, whether it's coding, making cheats, or actual hacking. Some even call cheaters "hackers" just because they brainlessly downloaded something off the internet.<br />
+  Over time it started to sound kinda cringe to me, so I just stick with "Cheat Dev." Feels more accurate and way less annoying in my opinion.
+
+---
+
 </details>
 
 <!--
