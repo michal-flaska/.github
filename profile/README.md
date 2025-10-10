@@ -1,5 +1,5 @@
-## Introduction
-Hello there! You might be wondering why I separated some of my projects from my [main GitHub profile](https://github.com/pilot2254). It's because I didn't want to create a mess there with repositories like: forks, personal projects, public projects, learning materials, etc. So I created this organization for the sole purpose of learning something new. However, keep in mind that although this organization contains game cheats, it is not only for them.
+# Hi there 👋
+You might be wondering why I separated some of my projects from my [main GitHub profile](https://github.com/pilot2254). It's because I didn't want to create a mess there with repositories like: forks, personal projects, public projects, learning materials, etc. So I created this organization for the sole purpose of learning something new. However, keep in mind that although this organization contains game cheats, it is not only for them.
 
 ## Notice
 > [!IMPORTANT]
