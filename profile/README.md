@@ -97,29 +97,13 @@ You might be wondering why I separated some of my projects from my [main GitHub 
 <!-- ================================================================================================ FAQ ITEM ================================================================================================ -->
 <details>
 
-  <summary>Which YouTube channels and internet resources would you recommend the most?</summary>
+  <summary>I want to start reverse engineering and/or game hacking. Where should I start?</summary>
   <br />
   
-  **General Development & Learning:**
-  
-  - [GitHub](https://github.com) - Explore open-source projects for inspiration and ideas, especially if you're unsure what to build.
-  - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - A curated list of practical projects and tutorials you can implement yourself.
-  - [cplusplus.com](https://cplusplus.com/) - Comprehensive C++ documentation and references.
-  - [Unity Learn](https://learn.unity.com/) - Official Unity tutorials and learning paths.
-  - [BroCode](https://www.youtube.com/@BroCodez) - High-quality, free coding tutorials covering multiple topics.
-  - [TheCherno](https://www.youtube.com/@TheCherno) - In-depth C++ programming lectures.
-  - [FreeCodeCamp's UE5 Tutorial](https://youtu.be/6UlU_FsicK8) - Extensive Unreal Engine 5 tutorial covering Blueprints, Materials, Level Design, and C++.
-  - [FreeCodeCamp](https://www.freecodecamp.org/) - Broad range of free programming tutorials and courses.
-
-  - [Jonathan Blow](https://www.youtube.com/@jblow888) - I put him here because he helped me with my lack of motivation, and inspired me in certain things
-  
-  **Game Hacking & Cheat Engine:**
-  
-  - [Swashed](https://www.youtube.com/@Swashed_) - Beginner-friendly Cheat Engine tutorials.
-  - [Intigriti](https://www.youtube.com/@intigriti) - Another solid source for Cheat Engine beginners.
-  - [GuidedHacking](https://www.youtube.com/@GuidedHacking) - Free YouTube tutorials plus paid content on their website.
-  - [Cazz](https://www.youtube.com/@cazz) - Specialized in cheats for CS2, excellent content.
-  - [manuroger](https://www.youtube.com/@manuroger112) - Some useful CS2 hacking videos; limited coverage.
+  Start by reading these 3 blogs, they include almost all info and tutorial links you will need:
+  - How to start reverse engineering: https://pilot2254.github.io/blog/how-to-start-reverse-engineering/
+  - What tools do I use for reverse engineering: https://pilot2254.github.io/blog/reverse-engineering-tools-i-use/
+  - How to start game hacking: https://pilot2254.github.io/blog/how-to-start-game-hacking/
 
 ---
 
@@ -131,21 +115,9 @@ You might be wondering why I separated some of my projects from my [main GitHub 
   <summary>Why focus on cheats if you don’t support cheating?</summary>
   <br />
   
-  For me, it’s fun. While learning how to make cheats, I picked up a massive amount of knowledge in programming, reverse engineering, and general computer science. It’s not about gaining unfair advantage, it’s about learning how systems really work.
+  For me, it’s fun. While learning how to make cheats, I picked up a massive amount of knowledge in programming, reverse engineering, and general computer science. It’s not about gaining unfair advantage, it’s about learning how systems really work. I dont cheat in competitive games.
   
 ---
-</details>
-
-<!-- ================================================================================================ FAQ ITEM ================================================================================================ -->
-<details>
-  
-  <summary>How do you ensure your projects remain educational only?</summary>
-  <br />
-  
-  By intent and by practice. I don’t publish ready-to-use scripts for online abuse. Everything I push here is built with the mindset of learning and experimenting, not exploitation.
-  
----
-
 </details>
 
 <!-- ================================================================================================ FAQ ITEM ================================================================================================ -->
@@ -190,7 +162,7 @@ You might be wondering why I separated some of my projects from my [main GitHub 
   <summary>What’s the hardest challenge you faced while making cheats?</summary>
   <br />
   
-  Anticheat systems. Even the basic ones can wreck a beginner. I’m still at the beginner stage myself, and anticheat has always been the biggest wall.
+  Anticheat systems. Even the basic ones can wreck a beginner. I’m still at the beginner/intermediate stage myself, and anticheat has always been the biggest wall.
   
 ---
   
@@ -202,22 +174,11 @@ You might be wondering why I separated some of my projects from my [main GitHub 
   <summary>What’s the educational value in building cheats?</summary>
   <br />
   
-  Immense. Done properly, game hacking teaches memory management, assembly, reverse engineering, system internals, and practical problem-solving. It’s one of the most hands-on ways to dig into computer science.
+  Immense. That's why am I doing this stuff.<br />
+  If done properly, game hacking teaches memory management, assembly, reverse engineering, system internals, and practical problem-solving. It’s one of the most hands-on ways to dig into computer science.
   
 ---
   
-</details>
-
-<!-- ================================================================================================ FAQ ITEM ================================================================================================ -->
-<details>
-  
-  <summary>What would you recommend for someone who wants to start with reverse engineering?</summary>
-  <br />
-  
-  Begin with the basics. Complete the entire Cheat Engine tutorial that ships with CE. After that, take a very simple game like <a href="https://longbowgames.com/dxball2/">DXBall2</a> and build a basic cheat table. Crawl before you run.
-  
----
-
 </details>
 
 <!-- ================================================================================================ FAQ ITEM ================================================================================================ -->
@@ -226,7 +187,8 @@ You might be wondering why I separated some of my projects from my [main GitHub 
   <summary>Are you a lazy person?</summary>
   <br />
   
-  Absolutely. I’m a certified procrastinator. Probably the laziest person alive. Somehow still managing to build this stuff anyway.
+  Absolutely. I’m a certified procrastinator. Probably the laziest person alive. Somehow still managing to build this stuff anyway.<br />
+  Now seriously, i'm suffering from executive dysfunction... And i hate that about myself
   
 ---
   
